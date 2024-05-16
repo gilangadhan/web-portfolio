@@ -1,0 +1,32 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #fafafa;
+  }
+  
+  .page-content {
+    padding: 2em;
+  }
+  
+    .profile-image {
+        width: 25%;
+        border-radius: 50%;
+        margin-bottom: 1em;
+    }
+  
+  .social-links {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    margin-top: 1em;
+  }
+  
+  .social-links li {
+    margin: 0 0.5em;
+  }
+  
+  .social-links a {
+    color: #3f51b5;
+    text-decoration: none;
+    font-size: 2em;
+  }
